@@ -1,6 +1,7 @@
 # BioModellingTutorials
 
  Repository of mathematical models capturing various aspects of biological systems, to provide interactive tutorials for getting familiar with these systems and running simulations. All written in Python (version 3) in interactive Jupyter notebooks.
+ For an introduction to mathematical models in biology (and other disciplines), check out the presentation **BioMath_introduction.pptx**.
  
 ## Population_growth
 A model of simple (exponential) population growth. Here it is demonstrated on the population of Europe but can be used to model cellular growth in bacterial/cancer population.
